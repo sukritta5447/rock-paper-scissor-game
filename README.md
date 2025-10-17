@@ -38,3 +38,9 @@ Simple browser-based Rock, Paper, Scissors game implemented with HTML, CSS and J
 
 ## Contributing
 - Fork, modify, test by opening [index.html](index.html), and submit a PR.
+
+## Personal Notes
+For this project, I mostly relied on Google Gemini for guidance.  And this is what I've learned from...
+ -  I discovered that you can use `<div>` as a container for all items.
+ -  Previously, I was interested about how to use `id` and `class`, and this project helped me understand that you should use `Class` when you want to modify the entire thing, and `Id` when you want it to be unique, which you will use to style in CSS and script.
+ -  I learned to apply logic when writing scripts.  You must grasp everything and ensure that each line makes sense.
